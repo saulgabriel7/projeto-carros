@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Web Car: Buscador de Carros 
 
 Bem-vindo ao Web Car! Este projeto é um buscador de carros que oferece uma experiência de usuário intuitiva e inteligente.
@@ -78,3 +79,6 @@ As principais fontes de monetização seriam:
 - Anúncios de destaque: Concessionárias pagariam para ter seus carros em posições de destaque.
 - Parcerias com financiadoras: Receberíamos uma comissão por leads de financiamento qualificados.
 - Serviços premium: Um modelo de assinatura para lojas com mais funcionalidades e visibilidade.
+=======
+# projeto-carros
+>>>>>>> bf3e0e3fc49affff0a4f84d484d1695973367cb2
