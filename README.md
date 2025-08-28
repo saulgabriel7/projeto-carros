@@ -1,5 +1,4 @@
-Web Car: Buscador de Carros
-Bem-vindo ao Web Car! Este projeto é um buscador de carros que oferece uma experiência de usuário intuitiva e inteligente.
+# Bem-vindo ao Web Car!
 
 A aplicação está disponivel em:
 
